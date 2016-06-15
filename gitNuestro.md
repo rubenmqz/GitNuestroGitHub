@@ -7,3 +7,6 @@ En el local como en el remoto
 Danos hoy nuestro pull de cada dia
 perdona nuestros conflictos
 como tambien perdonamos los de otros geeks
+No nos dejes caer en detached HEAD
+y libranos de SVN
+git commit --amen
